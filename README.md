@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Sander 👋
 
+## About me
+
+My name is Sander. I'm enthusiastic about technology, and I love creating new stuff. 
+
+## Contact
+
+[My GitHub](https://github.com/sansol0103) 
 <!--
 **sansol0103/sansol0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
